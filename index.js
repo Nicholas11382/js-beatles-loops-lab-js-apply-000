@@ -8,7 +8,7 @@ function theBeatlesPlay(musicians, instruments) {
   return array
 }
 
-function paulMFacts(facts) {
+function paulMcCartneyFacts(facts) {
   var array = [];
   let i = 0;
   while (i < facts.length) {
