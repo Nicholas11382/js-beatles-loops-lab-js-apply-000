@@ -5,7 +5,7 @@ function theBeatlesPlay(musicians, instruments) {
     var string = `${musicians[i]} plays ${instruments[i]}`;
     array.push(string);
   }
-  return array
+  return array;
 }
 
 function paulMcCartneyFacts(facts) {
@@ -15,7 +15,7 @@ function paulMcCartneyFacts(facts) {
     array.push(`${facts[i]}!!!`);
     i++;
   }
-  return array
+  return array;
 }
 
 function iLoveTheBeatles(number) {
@@ -24,6 +24,6 @@ function iLoveTheBeatles(number) {
     array.push("I love the Beatles!");
     number++;
   } while (number < 15);
-  return array
+  return array;
 } 
 
